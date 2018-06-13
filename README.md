@@ -1,8 +1,9 @@
 # Tetris
 ## Simple Tetris Built With UnrealEngine
 ----------  
+Go [Realease Page](https://github.com/Jack-Myth/Tetris/releases) to download HTML5 Version.
 
-How to play?
+How to play?  
 Use W,S,A,D To control the blocks.  
 
 ![](https://github.com/Jack-Myth/Tetris/raw/master/Preview/0.jpg)
